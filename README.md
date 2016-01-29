@@ -10,6 +10,8 @@ completely open source, so you can build your own functions for the lib!
 Simply take the .JAR from the release folder, and import it as an External Jar library in your favorite Java
 IDE. From there, create a new instance of jCCAPI, and you are good to go!
 
+**Note: Make sure you have 2.70 CCAPI installed on your PS3 or it will NOT work!**
+
 ##Additional Information
 -All of the other Java files aside from jCCAPI.java are different variables for various methods in jCCAPI. This
 includes Buzzer Types, NotifyIcons, Reboot Options, LED Colors, and more!
