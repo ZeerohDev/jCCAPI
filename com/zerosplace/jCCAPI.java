@@ -120,7 +120,7 @@ public class jCCAPI {
         }
     }
 
-    public String[] listProcesses()
+    private String[] listProcesses()
     {   
     	int arrIndex = 0;
         String[] subs = new String[3];
@@ -137,14 +137,14 @@ public class jCCAPI {
         return subs;
     }
 
-    public String getProcessName(String pid)
+    private String getProcessName(String pid)
     {
        return handleRequest("getprocessname", false, "pid=" + pid);
     }
     
     public boolean connect(String ip)
     {
-    	this.ip = ip;
+    	setIP(ip);
     	return true;
     }
 
