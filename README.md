@@ -1,4 +1,4 @@
-# jCCAPI-master
+# jCCAPI
 A Java Library for CCAPI 2.70
 
 **About**
