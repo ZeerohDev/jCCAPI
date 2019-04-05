@@ -1,8 +1,8 @@
 # jCCAPI-master
 A Java Library for CCAPI 2.70
 
-**About - **
-jCCAPI is a Java compatible library for the popular Control Console API (CCAPI) on the Playstation 3 system.
+**About**
+-jCCAPI is a Java compatible library for the popular Control Console API (CCAPI) on the Playstation 3 system.
 This allows you to create cross-platform applications for CCAPI (Yay! Mac and Android CCAPI tools!) and is
 completely open source, so you can build your own functions for the lib!
 
